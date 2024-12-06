@@ -16,12 +16,11 @@
     <td><img src="/japanese-neon-g9miy36z9jewhqvm.webp" alt="Image 6" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="/lpq6o2autx761.jpg" alt="Image 4" width="200"/></td>
+    <td><img src="/train.jpg" alt="Image 4" width="200"/></td>
     <td><img src="/pastel-car.png" alt="Image 5" width="200"/></td>
     <td><img src="/thumb-1920-1248293.jpg" alt="Image 6" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="/train.jpg" alt="Image 4" width="200"/></td>
     <td><img src="/wallpaper.png" alt="Image 5" width="200"/></td>
     <td><img src="/yosemite.png" alt="Image 6" width="200"/></td>
   </tr>
